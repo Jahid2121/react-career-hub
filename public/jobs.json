@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Google",
+      "remote_or_onsite": "Remote",
+      "location": "Any Location",
+      "job_type": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "job_description": "Join Google's world-class engineering team and work on cutting-edge projects.",
+      "job_responsibility": "Develop and maintain software applications, collaborate with cross-functional teams, and more.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of software development experience",
+      "contact_information": {
+        "Phone": "+1 (555) 123-4567",
+        "email": "careers@google.com",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+      }
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+      "job_title": "Data Analyst",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Gatos, CA",
+      "job_type": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "job_description": "Join Netflix's data analytics team and help shape the future of entertainment.",
+      "job_responsibility": "Analyze and interpret data, create reports, and provide insights for content decisions.",
+      "educational_requirements": "Bachelor's degree in Statistics or related field.",
+      "experiences": "2+ years of data analysis experience",
+      "contact_information": {
+        "Phone": "+1 (555) 987-6543",
+        "email": "jobs@netflix.com",
+        "address": "100 Winchester Circle, Los Gatos, CA 95032"
+      }
+    },
+    {
+      "id": 3,
+      "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+      "job_title": "Electrical Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Fremont, CA",
+      "job_type": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "Be part of Tesla's mission to accelerate the world's transition to sustainable energy.",
+      "job_responsibility": "Design and develop electrical systems for electric vehicles and energy products.",
+      "educational_requirements": "Bachelor's degree in Electrical Engineering or related field.",
+      "experiences": "1+ years of electrical engineering experience",
+      "contact_information": {
+        "Phone": "+1 (555) 789-1234",
+        "email": "careers@tesla.com",
+        "address": "3500 Deer Creek Road, Palo Alto, CA 94304"
+      }
+    },
+    {
+      "id": 4,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Machine Learning Engineer",
+      "company_name": "Google",
+      "remote_or_onsite": "Hybrid",
+      "location": "Various Locations",
+      "job_type": "Full-time",
+      "salary": "$130,000 - $160,000",
+      "job_description": "Join Google's machine learning team and work on cutting-edge AI projects.",
+      "job_responsibility": "Develop machine learning models, conduct research, and drive innovation in AI.",
+      "educational_requirements": "Master's or Ph.D. in Computer Science or related field.",
+      "experiences": "3+ years of machine learning experience",
+      "contact_information": {
+        "Phone": "+1 (555) 123-4567",
+        "email": "careers@google.com",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+      }
+    },
+    {
+      "id": 5,
+      "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+      "job_title": "Battery Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Palo Alto, CA",
+      "job_type": "Full-time",
+      "salary": "$90,000 - $110,000",
+      "job_description": "Help revolutionize energy storage technology at Tesla.",
+      "job_responsibility": "Develop and optimize battery systems for electric vehicles and energy storage solutions.",
+      "educational_requirements": "Bachelor's degree in Materials Science or related field.",
+      "experiences": "2+ years of battery engineering experience",
+      "contact_information": {
+        "Phone": "+1 (555) 789-1234",
+        "email": "careers@tesla.com",
+        "address": "3500 Deer Creek Road, Palo Alto, CA 94304"
+      }
+    },
+    {
+      "id": 6,
+      "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+      "job_title": "Content Strategist",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Remote",
+      "location": "Any Location",
+      "job_type": "Full-time",
+      "salary": "$110,000 - $130,000",
+      "job_description": "Join Netflix's content strategy team and shape the future of streaming content.",
+      "job_responsibility": "Develop content strategies, collaborate with creators, and drive content acquisition.",
+      "educational_requirements": "Bachelor's degree in Media Studies or related field.",
+      "experiences": "3+ years of content strategy experience",
+      "contact_information": {
+        "Phone": "+1 (555) 987-6543",
+        "email": "jobs@netflix.com",
+        "address": "100 Winchester Circle, Los Gatos, CA 95032"
+      }
+    }
+  ]
+  
